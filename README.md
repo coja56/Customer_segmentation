@@ -22,3 +22,5 @@ in groups which is the essence of segmentation.
 
 #### Age and Income Scatterplot
 
+![Age_Income](https://user-images.githubusercontent.com/58469743/166333229-57440e21-7ea2-4ef3-a362-f8d6dcaab349.png)
+
