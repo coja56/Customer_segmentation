@@ -9,6 +9,9 @@ Python
 Numpy
 Pandas
 Scipy
+Scikit-learn
+Seaborn
+Matplotlib
 ````
 #### Corelation
 ````
